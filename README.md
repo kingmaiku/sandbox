@@ -1,2 +1,2 @@
 # sandbox
-this is to test out more advance merging plugins
+this is to test out more advanced merging solutions
